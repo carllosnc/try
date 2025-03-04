@@ -1,4 +1,4 @@
-import { tryCatch } from '../src/try-catch'
+import { tryCatch } from '../src/try-catch-utils'
 import { describe, test, expect } from 'bun:test'
 
 describe('try function', () => {
