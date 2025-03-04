@@ -1,1 +1,1 @@
-export * from './src/try-catch'
+export * from './src/try-catch-utils'
