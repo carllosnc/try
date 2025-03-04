@@ -1,5 +1,5 @@
 import { describe, test, expect } from 'bun:test'
-import { tryCatchAsync } from '../src/async-try-catch'
+import { tryCatchAsync } from '../src/try-catch-utils'
 
 describe('tryCatchAsync function', () => {
   test('should handle successful async operations', async () => {
