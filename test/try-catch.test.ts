@@ -1,7 +1,7 @@
 import { tryCatch } from '../src/try-catch-utils'
 import { describe, test, expect } from 'bun:test'
 
-describe('try function', () => {
+describe('tryCatch function', () => {
   test('should return data when action succeeds', () => {
     const expectedResult = { success: true }
 
