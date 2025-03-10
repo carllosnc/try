@@ -1,4 +1,4 @@
-# TS-try
+# try-TS
 
 A lightweight TypeScript utility package providing simple, consistent error handling for synchronous and asynchronous operations.
 
